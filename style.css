@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: hsl(189, 93%, 41%);
+    text-align: center;
+}
+h1 {
+    color: white;
+}
+ul {
+    margin-top: -2rem;
+    text-align: center;
+}
+img {
+    width: 300px;
+}
+.lista {
+    margin-left: -180px;
+    color: white;
+}
+.contato {
+    margin-left: -170px;
+    color: white;
+}
+.info {
+    margin-left: -130px;
+    color: white; 
+}
+.info2 {
+    margin-left: 300px;
+}
